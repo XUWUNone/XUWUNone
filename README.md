@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @XUWUNone/Eric/Zehui Liu
+- 👋 Hi, I’m @XUWUNone/Enrico/Zehui Liu
 - 👀 I’m interested in Java/Python
 - 🌱 I’m currently learning in University of Western Australia
 
