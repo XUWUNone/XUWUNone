@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XUWUNone/Eric/Zehui Liu
-- 👀 I’m interested in Java/Haskell
-- 🌱 I’m currently learning University of Southampton
+- 👀 I’m interested in Java/Python
+- 🌱 I’m currently learning in University of Western Australia
 
 <!---
 XUWUNone/XUWUNone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
